@@ -9,7 +9,7 @@ Protein is one of the most significant components of all living creatures. All s
 
 # Required data
 The uploaded data data.zip in this respository contains: <br>
-1. train_166.arff and test_166.arff are the training and test set with 168 features. <br>
+1. train_166.arff and test_166.arff are the training and test set with 166 features. <br>
 2. train_90.arff and test_90.arff are the training and test sets with 90 features. <br>
 
 # Run the analysis
